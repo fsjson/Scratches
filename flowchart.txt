@@ -1,0 +1,5 @@
+﻿Flowchart
+
+Flowchart adalah representasi visual berupa diagram alur yang menjelaskan proses dari suatu sistem, algoritma, atau prosedur. Flowchart digunakan untuk menggambarkan langkah-langkah dalam urutan logisFlowchart adalah representasi visual berupa diagram alur yang menjelaskan proses dari suatu sistem, algoritma, atau prosedur. Flowchart digunakan untuk menggambarkan langkah-langkah dalam urutan logis, dengan menggunakan simbol-simbol standar untuk menggambarkan berbagai jenis instruksi, keputusan, dan tindakan., dengan menggunakan simbol-simbol standar untuk menggambarkan berbagai jenis instruksi, keputusan, dan tindakan.
+
+

@@ -1,0 +1,5 @@
+﻿LOGIKA dalam pemrograman
+
+Logika dalam konteks pemrograman adalah tahapan untuk menyusun algoritma atau langkah-langkah dengan logis dan sistematis, dengan tujuan untuk menyelesaikan suatu masalah didalam sebuah komputer, Dengan menggunakan bahasa pemrograman yang sesuai untuk mengimplementasikan algoritma yang telah disusun tersebut.
+
+Logis berarti pemikiran yang masuk akal, dan dilakukan secara konsisten. Sistematis berarti disusun secara berurutan, terstruktur.
