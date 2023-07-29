@@ -1,4 +1,5 @@
 
+
 Secara SEDERHANA:
   Operating system adalah software yang bertanggung jawab atas memenejemen antara software/application dengan hardware.
 untuk itulah, os disebut juga sebagai "Jembatan" antara software dengan hardware. tanpa OS komputer tidak akan bisa berjalan
@@ -7,7 +8,5 @@ itulah mengapa, saat kita mem-booting kita masih bisa membuka komputer tanpa OS.
 dengan adanya GUI maka, komputer mudah untuk dijalankan dan dikomputasikan.
 
 Kernel adalah bagian inti dari sebuah operating-system(OS).yang bertugas untuk mengkomunikasikan antara software dan hardware.
-
-
 
 
