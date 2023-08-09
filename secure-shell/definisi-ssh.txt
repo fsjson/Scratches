@@ -1,0 +1,4 @@
+﻿SSH
+
+What is?
+	Secure Shell disingkat menjadi SSH adalah protokol komunikasi jaringan(Network) yang memungkinkan dua komputer untuk saling berkomunikasi dan berbagi data. Fitur yang melekat pada ssh adalah bahwa komunikasi antara dua komputer dienkripsi, artinya cocok untuk digunakan pada jaringan yang tidak aman. Selain itu, SSH sering digunakan untuk "log-in" dan melakukan operasi pada komputer jarak jauh(remote) tetapi juga dapat digunakan untuk mentransfer data.
